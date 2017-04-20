@@ -1,5 +1,5 @@
 # Proxy-Scripts
-# for setting proxy: 
+for setting proxy: 
 sudo sh proxyon.sh <host> <port>
 
 for removing proxy: 
