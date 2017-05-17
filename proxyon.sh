@@ -2,6 +2,7 @@ if [ $(id -u) -ne 0 ]; then
   echo "This script must be run as root";
 	// changes  
 echo "made change here"
+echo "some more changes"
 	//changes
   exit 1;
 fi
